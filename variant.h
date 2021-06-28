@@ -118,11 +118,11 @@ extern "C" {
 #define BUZZER 					PC0
 
 #ifndef PIN_WIRE_SDA
-#define PIN_WIRE_SDA 			PB7
+#define PIN_WIRE_SDA 			PC9
 #endif
 
 #ifndef PIN_WIRE_SCL
-#define PIN_WIRE_SCL 			PB6
+#define PIN_WIRE_SCL 			PA8
 #endif
 
 // SPI Definitions
