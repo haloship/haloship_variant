@@ -19,6 +19,8 @@
 #ifndef _VARIANT_ARDUINO_STM32_
 #define _VARIANT_ARDUINO_STM32_
 
+#define HALOSHIP
+
 #ifdef __cplusplus
 extern "C" {
 #endif // __cplusplus
